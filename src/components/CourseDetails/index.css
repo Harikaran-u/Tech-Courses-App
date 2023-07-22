@@ -1,0 +1,12 @@
+.courses-title {
+  font-family: 'Roboto';
+  font-size: 28px;
+  color: #1e293b;
+}
+.main-container {
+  padding: 20px;
+}
+.courses-list-container {
+  display: flex;
+  flex-wrap: wrap;
+}
